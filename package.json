@@ -1,5 +1,6 @@
 {
   "name": "earley-node",
+  "version":"0.0.1",
   "dependencies": {
     "debug": "~0.7.4",
     "line-reader": "~0.2.3",
