@@ -1,0 +1,8 @@
+{
+  "name": "earley-node",
+  "dependencies": {
+    "debug": "~0.7.4",
+    "line-reader": "~0.2.3",
+    "string": "~1.8.0"
+  }
+}
