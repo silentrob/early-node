@@ -9,7 +9,7 @@ This project is a direct port of [Early Bird](https://github.com/n0nick/earley_b
 
 ### Usage
 
-```npm install early-node```
+```npm install earley-node```
 
 
 ### Input
