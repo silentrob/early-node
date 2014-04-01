@@ -4,7 +4,7 @@
 
 Earley is a small program that, given a well-formatted context-free grammar, and an input sentence that has already been passed through a part-of-speech tagger program, can tell you whether or not the sentence is valid in this grammar, and if so, output all possible parse trees in a nice format.
 
-This project is a direct port of [Early Bird](https://github.com/n0nick/earley_bird), origionally written in Python by Sagie Maoz.
+This project is a direct port of [Earley Bird](https://github.com/n0nick/earley_bird), origionally written in Python by Sagie Maoz.
 
 
 ### Usage
